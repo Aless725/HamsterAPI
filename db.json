@@ -1,0 +1,243 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Care + - Hamsters",
+      "categoria": "Alimentos",
+      "precio": 20,
+      "stock": 6,
+      "imagen": "https://dojiw2m9tvv09.cloudfront.net/27184/product/hamster9181.jpg",
+      "descripcion": "Alimento nutritivo especial para hámsteres"
+    },
+    {
+      "id": "2",
+      "nombre": "Brit Animals - Hamsters",
+      "categoria": "Alimentos",
+      "precio": 45,
+      "stock": 8,
+      "imagen": "https://brit.pe/panel/img/producto/CVMnIRJjbaulXbo0TUVDXXmbQ5k2OWp58cNU0S0R.jpg",
+      "descripcion": "Alimento premium Brit con ingredientes seleccionados"
+    },
+    {
+      "id": "3",
+      "nombre": "Science Selective - Complete Hamstger Food",
+      "categoria": "Alimentos",
+      "precio": 40,
+      "stock": 5,
+      "imagen": "https://cdn.webshopapp.com/shops/36856/files/188952620/supreme-alimento-selectivo-para-hamsteres-350-gram.jpg",
+      "descripcion": "Snacks saludables para tu hámster"
+    },
+    {
+      "id": "4",
+      "nombre": "Casa de madera Básica + Mini casa",
+      "categoria": "Casas",
+      "precio": 190,
+      "stock": 2,
+      "imagen": "https://www.tiendanimal.es/dw/image/v2/BDLQ_PRD/on/demandware.static/-/Sites-kiwoko-master-catalog/default/dwae6edd99/images/large/69a8cd29da994bed9f85065d4d73c5c2.jpg?sw=780&sh=780&sm=fit&q=85",
+      "descripcion": "Casa básica de madera con mini casa incluida"
+    },
+    {
+      "id": "5",
+      "nombre": "Casa de madera Deluxe + Accesorios",
+      "categoria": "Casas",
+      "precio": 290,
+      "stock": 5,
+      "imagen": "https://m.media-amazon.com/images/I/71feFtEBVFL._AC_UF894,1000_QL80_.jpg",
+      "descripcion": "Casa deluxe con múltiples accesorios incluidos"
+    },
+    {
+      "id": "6",
+      "nombre": "Casa doble nivel + vista panorámica",
+      "categoria": "Casas",
+      "precio": 345,
+      "stock": 1,
+      "imagen": "https://static.wixstatic.com/media/5ab35a_bde8069f4cf1493db92521956a915fe9~mv2.jpg/v1/fill/w_480,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/5ab35a_bde8069f4cf1493db92521956a915fe9~mv2.jpg",
+      "descripcion": "Casa de dos niveles con vista panorámica premium"
+    },
+    {
+      "id": "7",
+      "nombre": "Rueda clásica",
+      "categoria": "Juguetes",
+      "precio": 35,
+      "stock": 4,
+      "imagen": "https://cochikis.pe/wp-content/uploads/2025/12/Rueda-para-Hamster-con-base2.webp",
+      "descripcion": "Rueda clásica con base estable"
+    },
+    {
+      "id": "8",
+      "nombre": "Túnel flexible",
+      "categoria": "Juguetes",
+      "precio": 28,
+      "stock": 9,
+      "imagen": "https://i5.walmartimages.com/asr/eb57ca0f-84bd-4446-82b1-638f180d4ba3.2d01617059e52f82be8c548ab896d6ff.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "descripcion": "Túnel flexible para juego y ejercicio"
+    },
+    {
+      "id": "9",
+      "nombre": "Pack de juguetes",
+      "categoria": "Juguetes",
+      "precio": "55",
+      "stock": 3,
+      "imagen": "https://i5.walmartimages.com/asr/e92bfe0a-a102-4d9d-b36d-cc005d32c89e.a8edba68477c5a0fe82352470ae20155.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "descripcion": "Pack completo con variedad de juguetes"
+    },
+    {
+      "id": "10",
+      "nombre": "Arena de baño",
+      "categoria": "Accesorios",
+      "precio": 18,
+      "stock": 12,
+      "imagen": "https://static.wixstatic.com/media/c0a334_a717fb69b2814076bd3305b770c5909a~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+      "descripcion": "Arena especial para baño de hámster"
+    },
+    {
+      "id": "11",
+      "nombre": "Botella de agua automática",
+      "categoria": "Accesorios",
+      "precio": 25,
+      "stock": 7,
+      "imagen": "https://cochikis.pe/wp-content/uploads/2025/06/Bebedero-Para-Hamster-80ml-Con-Base-Rosado.webp",
+      "descripcion": "Botella automática con control de goteo"
+    },
+    {
+      "id": "12",
+      "nombre": "Comedero de cerámica",
+      "categoria": "Accesorios",
+      "precio": 15,
+      "stock": 5,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-BB5JO-4M2QADePhOgHNRwhQuUtCDjw9bOKu-MhSTIWgMlJA_57UzMg&s=10",
+      "descripcion": "Comedero resistente de cerámica"
+    },
+    {
+      "id": "13",
+      "nombre": "Cama de algodón",
+      "categoria": "Accesorios",
+      "precio": 22,
+      "stock": 10,
+      "imagen": "https://p.globalsources.com/IMAGES/PDT/B5381330970/Hamster-Bed.png",
+      "descripcion": "Cama suave de algodón 100% natural"
+    },
+    {
+      "id": "14",
+      "nombre": "Plato de ejercicio silencioso",
+      "categoria": "Juguetes",
+      "precio": 55,
+      "stock": 6,
+      "imagen": "https://i5.walmartimages.com/asr/85d0087d-8bc6-43dc-aab4-59405e8d6791.84032d3235e328709a5098e7b2d92500.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "descripcion": "Plato de ejercicios silencioso de última generación"
+    },
+    {
+      "id": "15",
+      "nombre": "Set de ropa para hámster",
+      "categoria": "Accesorios",
+      "precio": 85,
+      "stock": 4,
+      "imagen": "https://img.magnific.com/foto-gratis/lindo-conjunto-pijamas-accesorios-perros_23-2147828948.jpg?semt=ais_hybrid&w=740&q=80",
+      "descripcion": "Set completo de ropa para hámster"
+    },
+    {
+      "id": "16",
+      "nombre": "Jaula de vidrio premium",
+      "categoria": "Casas",
+      "precio": 450,
+      "stock": 2,
+      "imagen": "https://images.ctfassets.net/j4m9q0fykyy4/6B7eyUrsvf64EkJi6SuWuo/d14cc0d46ddd6a0965b8f8348b41ec14/2021-11-jaula-acuario-cristal-plexiglas.jpg",
+      "descripcion": "Jaula de vidrio con ventilación óptima"
+    },
+    {
+      "id": "17",
+      "nombre": "Ecónido - Sustrato de Papel",
+      "categoria": "Accesorios",
+      "precio": 12,
+      "stock": 20,
+      "imagen": "https://media.falabella.com/falabellaPE/145450691_02/w=1500,h=1500,fit=cover",
+      "descripcion": "Sustrato de papel para cama de hámster"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "email": "admin@hamstore.com",
+      "password": "admin123",
+      "nombre": "Administrador",
+      "rol": "admin"
+    },
+    {
+      "id": "2",
+      "email": "usuario@hamstore.com",
+      "password": "user123",
+      "nombre": "Usuario",
+      "rol": "usuario"
+    },
+    {
+      "id": "b5bihu1Nhr4",
+      "email": "pedro@gmail.com",
+      "password": "peter123",
+      "nombre": "Pedro Pica Piedra",
+      "rol": "usuario"
+    },
+    {
+      "id": "R09cW-R-s8s",
+      "email": "Cocoa@hamstore.com",
+      "password": "123456",
+      "nombre": "Roberto Hugo Angeles Neciosup",
+      "rol": "usuario"
+    }
+  ],
+  "contactos": [
+    {
+      "nombre": "Danfert Castro Palacios",
+      "telefono": "987654321",
+      "email": "danfert@gmail.com",
+      "medida": "60x160",
+      "mensaje": "Necesito una casa para dos hámsteres sirios con distribucion de dos pisos y túneles conectados.",
+      "id": "1",
+      "fecha": "2026-07-01T14:28:08.592Z"
+    },
+    {
+      "nombre": "Roberto Angeles",
+      "telefono": "987654321",
+      "email": "roberto@hamster.com",
+      "medida": "50x100",
+      "mensaje": "Que tenga vidrios en 3 lados",
+      "id": "Du9hIAETSI8",
+      "fecha": "2026-07-02T02:34:50.092Z"
+    },
+    {
+      "nombre": "Aurora",
+      "telefono": "999999999",
+      "email": "aurora@pruebitas.com",
+      "medida": "80x200",
+      "mensaje": "Casita chevere",
+      "id": "-j2GMy-PPKY",
+      "fecha": "2026-07-03T00:39:50.440Z"
+    },
+    {
+      "nombre": "Roberto 2",
+      "telefono": "968574321",
+      "email": "migmail@gmail.com",
+      "medida": "80x200",
+      "mensaje": "Casita 3.0",
+      "id": "Yjk8NLSe5c4",
+      "fecha": "2026-07-03T00:42:29.928Z"
+    }
+  ],
+  "historia": [
+    {
+      "mision": "Somos un emprendimiento que nace de la inspiración de brindar una calidad de vida superior a nuestras mascotas. Nos convertimos en la primera gran tienda online exclusiva para hámsters basada en el cuidado ético, donde puedes encontrar todo lo necesario y sano para su bienestar. Nos caracterizamos por tener una amplia variedad de suministros selectos y somos pioneros en el Perú en ofrecer hábitats aptos y enriquecimiento natural.",
+      "vision": "Anhelamos que nuestros productos lleguen a cada rincón del país y seguir ampliando nuestra oferta, al mismo tiempo que nos consolidamos como una fuente confiable de información sobre tenencia responsable. Buscamos impulsar a la población mascotera a adquirir conocimiento sobre el cuidado apto de estos roedores, erradicando por completo el uso de jaulas diminutas o virutas de madera nocivas.",
+      "valores": [
+        {
+          "titulo": "Ética Profesional",
+          "descripcion": "Toda la información, asesoramiento y catálogo que proporcionamos están basados en estudios científicos y lineamientos veterinarios especializados en animales exóticos, velando por su salud física y emocional."
+        },
+        {
+          "titulo": "Acceso Universal y Seguro",
+          "descripcion": "Somos la alternativa transparente frente a la desinformación comercial. Encontrarás solo suministros 100% aptos y saludables, entregando la información necesaria directamente a todas las regiones del Perú."
+        }
+      ],
+      "id": "Q3M04Zb3O4Y"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
